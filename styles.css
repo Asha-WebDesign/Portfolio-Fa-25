@@ -1,0 +1,33 @@
+
+
+
+.container-fluid {
+    background-color:#D38D5B;
+}
+.row {
+    background-color:#FFFDF4;
+    background-image: url(pictures/10366807.jpg)
+}
+
+.row-1{
+    background-image: url(lined%20paper.jpg)
+        
+    
+}
+
+.h1{
+    background-color: #FFEC7E;   
+}
+
+.h2 {
+    background-color: #71F1FF
+}
+
+.h3 {
+    background-color: #79FF72
+}
+
+.row1{
+    background-color: rgba(255, 250, 240, 0)
+
+}
